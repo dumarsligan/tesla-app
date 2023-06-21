@@ -2,3 +2,4 @@ FROM tomcat:8.0.20-jre8
 ### Good stuff
 COPY target/*.war /usr/local/tomcat/webapps/wfapp.war
 # i'll be great
+#is good
